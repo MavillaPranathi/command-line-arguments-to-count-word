@@ -32,7 +32,7 @@ print("word count in file =",count)
 ```
 
 ### OUTPUT:
-[!'OUTPUT'](/commandpic.png)
+![command line arguments](https://user-images.githubusercontent.com/118343610/215310562-3233f0e1-ceb3-49a1-a97f-190b61a5531e.png)
 
 
 
